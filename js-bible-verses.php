@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: JS Bible Verses
-Plugin URI: http://www.joelsays.com/
+Plugin Name: Bible Verses
+Plugin URI: http://www.joelsays.com/plugins/bible-verses
 Description: Shows random Bible verses as widget or using shortcode.
-Version: 1.0
+Version: 1.1
 Author: Joel James
-Author URI: http://www.joelsays.com
+Author URI: http://www.joelsays.com/about
 License: GPL2
 */
 function js_bible_verses_stylesheet() {

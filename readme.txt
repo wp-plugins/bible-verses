@@ -4,7 +4,7 @@ Tags: bible, bible verses, random bible verses, bible verses widget, bible widge
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ This plugin will create a widget that will show bible verses in random order. Ea
 
 Apart from widget you can use shortcode [js-bible-verses]. It can be used anywhere in the page. It will also show verses.
 
-Visit <a href="http://www.joelsays.com/">Plugin Official Website</a>
+Visit <a href="http://www.joelsays.com/plugins/bible-verses/">Plugin Official Website</a>
 
 
 Features of Bible Verses are,
@@ -26,6 +26,7 @@ Features of Bible Verses are,
  * Quick <a href="http://www.joelsays.com/contact-me">Direct Support</a>.
  * Free to use with lifetime updates.
  * More feature coming soon.. (You can suggest also)
+ * See more details <a href="http://www.joelsays.com/contact-me">here</a>
 
  Please contact Joel James (developer) using <a href="http://www.joelsays.com/contact-me" target="_blank">this form </a>if you have any issues.
  Visit developer's blog - <a href="http://www.joelsays.com/contact-me" target="_blank">Joel Says</a>
@@ -33,10 +34,10 @@ Features of Bible Verses are,
 == Support ==
 Please contact author directly here http://www.joelsays.com/contact-me
 
-Current Version: 1.0 (Beta)
+Current Version: 1.1
 
 Author: Joel James
-Author URI: http://www.joelsays.com/
+Author URI: http://www.joelsays.com/about
 
 
 == Installation ==
@@ -53,7 +54,7 @@ Note : Customization of appearance is coming soon. Stay tuned
 
 == Screenshots ==
 
-screenshots are coming soon!!
+To see details and screeshots visit http://www.joelsays.com/plugins/bible-verses
 
 == Frequently Asked Questions ==
 
@@ -74,6 +75,9 @@ Yes. For 100% sure. We will show references too.
 
 = 1.0 =
 * Added first version without admin menu
+
+= 1.1 =
+* Added official website details
 
 
 
