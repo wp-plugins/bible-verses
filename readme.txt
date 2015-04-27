@@ -3,8 +3,8 @@ Contributors: joelcj91
 Tags: bible, bible verses, random bible verses, bible verses widget, bible widget, bible verse
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
 Requires at least: 3.0.1
-Tested up to: 3.9.1
-Stable tag: 1.1
+Tested up to: 4.2
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,7 +34,7 @@ Features of Bible Verses are,
 == Support ==
 Please contact author directly here http://www.joelsays.com/contact-me
 
-Current Version: 1.1
+Current Version: 1.2
 
 Author: Joel James
 Author URI: http://www.joelsays.com/about
@@ -73,15 +73,20 @@ Yes. For 100% sure. We will show references too.
 
 == Changelog ==
 
-= 1.0 =
-* Added first version without admin menu
+= 1.2 =
+* Minor bug fix
+* Tested with WordPress 4.2
+* Added icon
 
 = 1.1 =
 * Added official website details
 
+= 1.0 =
+* Added first version without admin menu
 
 
 == Upgrade Notice ==
 
-= 1.0 =
-First version.
+* Minor bug fix
+* Tested with WordPress 4.2
+* Added icon.

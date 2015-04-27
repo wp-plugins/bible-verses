@@ -3,7 +3,7 @@
 Plugin Name: Bible Verses
 Plugin URI: http://www.joelsays.com/plugins/bible-verses
 Description: Shows random Bible verses as widget or using shortcode.
-Version: 1.1
+Version: 1.2
 Author: Joel James
 Author URI: http://www.joelsays.com/about
 License: GPL2
